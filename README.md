@@ -27,3 +27,6 @@ Nomes de funções e métodos devem indicar claramente o que eles fazem e o que 
 Cada função deve ter uma única responsabilidade, realizando apenas uma operação ou tarefa específica.
 Deve-se preferir o uso de espaçamento consistente, indentação apropriada e comentários relevantes para facilitar a compreensão do código.
 Deve-se evitar a duplicação de código, procurando sempre reutilizar funções e componentes existentes quando possível.
+
+## Montangem 
+![image]([files/Users/jzhang/Desktop/Isolated.png](https://github.com/jessiicalayanne/projeto_Genius/blob/main/tinkercad%20genius.png?raw=true))
